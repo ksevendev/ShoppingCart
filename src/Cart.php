@@ -9,6 +9,7 @@ use ShoppingCart\Models\ShoppingCart;
 use CodeIgniter\Config\Services;
 use CodeIgniter\Events\Events;
 use CodeIgniter\I18n\Time;
+
 use Tightenco\Collect\Support\Collection;
 
 class Cart

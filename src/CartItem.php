@@ -3,6 +3,7 @@
 namespace ShoppingCart;
 
 use ShoppingCart\Contracts\Buyable;
+
 use Tightenco\Collect\Contracts\Support\Arrayable;
 use Tightenco\Collect\Contracts\Support\Jsonable;
 use Tightenco\Collect\Support\Arr;
