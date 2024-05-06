@@ -11,7 +11,7 @@ A simple shoppingcart implementation for CodeIgniter4.
 
 ## Installation
 
-Install the package through [Composer](http://getcomposer.org/). 
+Install the [package](https://packagist.org/packages/kseven/shoppingcart) through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
 
