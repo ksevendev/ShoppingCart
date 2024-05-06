@@ -2,10 +2,10 @@
 
 Ported from https://github.com/ksevendev/ShoppingCart for CodeIgniter4
 
-[![Latest Stable Version](https://poser.pugx.org/ksevendev/ShoppingCart/v)](https://packagist.org/packages/ksevendev/ShoppingCart)
-[![Total Downloads](https://poser.pugx.org/ksevendev/ShoppingCart/downloads)](https://packagist.org/packages/ksevendev/ShoppingCart)
-[![Latest Unstable Version](https://poser.pugx.org/ksevendev/ShoppingCart/v/unstable)](https://packagist.org/packages/ksevendev/ShoppingCart)
-[![License](https://poser.pugx.org/ksevendev/ShoppingCart/license)](https://packagist.org/packages/ksevendev/ShoppingCart)
+[![Latest Stable Version](https://poser.pugx.org/kseven/shoppingcart/v)](https://packagist.org/packages/kseven/shoppingcart)
+[![Total Downloads](https://poser.pugx.org/kseven/shoppingcart/downloads)](https://packagist.org/packages/kseven/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/kseven/shoppingcart/v/unstable)](https://packagist.org/packages/kseven/shoppingcart)
+[![License](https://poser.pugx.org/kseven/shoppingcart/license)](https://packagist.org/packages/kseven/shoppingcart)
 
 A simple shoppingcart implementation for CodeIgniter4.
 
